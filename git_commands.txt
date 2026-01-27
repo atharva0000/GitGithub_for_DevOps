@@ -6,3 +6,12 @@ git add file.name
 git rm --cached file.name
 git commit -m "message"
 git restore file.name
+
+
+git init
+git add file.name
+git rm --cached file.name
+git commit "message"
+git remote add origin repo.link --> to get our repo from github in our initialised git in vscode
+git remote set-url origin url.link --> to set new url which has PAT(personal access token)
+git push origin master
