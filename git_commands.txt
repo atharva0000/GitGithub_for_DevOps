@@ -8,7 +8,6 @@ git commit -m "message"
 git restore file.name
 
 
-git init
 git add file.name
 git rm --cached file.name
 git commit "message"
