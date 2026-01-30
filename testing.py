@@ -1,6 +1,9 @@
+"""
+This module contains a simple function that returns a greeting message.
+"""
+
 def hello():
     """
-    this is a hello
-    
+    Returns a friendly greeting message.
     """
-return "Hello Dosto"
+    return "Hello Dosto"
